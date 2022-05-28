@@ -1,5 +1,5 @@
 # pbtgym
-Proton Beam Therapy (PBT) gym is a toolkit to aid in the gamification of proton therapy treatment planning. This is to aid it's applicability for machine learning solutions of auto-planning.
+Proton Beam Therapy (PBT) gym is a toolkit to aid in the gamification of proton therapy treatment planning. This is to increase it's applicability for reinforcement style solutions of auto-planning.
 
 ## In development
 - plug and play API for PBT dose calculation (including simple included solution)
